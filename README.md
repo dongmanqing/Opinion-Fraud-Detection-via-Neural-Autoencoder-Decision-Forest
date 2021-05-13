@@ -7,10 +7,13 @@ About the dataset: the 1st column is the label(1 for fake reivews and 0 for genu
 
 If you find this is helpful for your work please cite:
 ```
-@article{dong2018opinion,
-  title={Opinion Fraud Detection via Neural Autoencoder Decision Forest},
+@article{dong2020opinion,
+  title={Opinion fraud detection via neural autoencoder decision forest},
   author={Dong, Manqing and Yao, Lina and Wang, Xianzhi and Benatallah, Boualem and Huang, Chaoran and Ning, Xiaodong},
-  journal={arXiv preprint arXiv:1805.03379},
-  year={2018}
+  journal={Pattern Recognition Letters},
+  volume={132},
+  pages={21--29},
+  year={2020},
+  publisher={Elsevier}
 }
 ```
